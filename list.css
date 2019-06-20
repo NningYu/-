@@ -1,3 +1,9 @@
 .red{
     color:red;
 }
+.dark{
+    background: red;
+}
+li{
+    list-style: none;
+}
